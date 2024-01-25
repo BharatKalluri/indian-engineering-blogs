@@ -24,5 +24,15 @@ If you have a engineering blog, or know of any engineering blogs where you belie
 
 ## Companies
 
+### C
+- [Cred](https://engineering.cred.club/)
+
+### R
+- [Razorpay](https://engineering.razorpay.com/)
+
+### S
+- [Swiggy](https://bytes.swiggy.com/tagged/swiggy-engineering)
+
 ### Z
 - [Zerodha](https://zerodha.tech/blog/)
+- [Zomato](https://blog.zomato.com/)
