@@ -14,7 +14,7 @@ If you have a engineering blog, or know of any engineering blogs where you belie
 ## Individuals
 
 ### A
-- [Arvind Prakash](https:://arvindprakash.com)
+- [Arvind Prakash](https://arvindprakash.com)
 
 ### B
 - [Bharat Kalluri](https://bharatkalluri.com)
