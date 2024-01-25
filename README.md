@@ -19,6 +19,9 @@ If you have a engineering blog, or know of any engineering blogs where you belie
 ### B
 - [Bharat Kalluri](https://bharatkalluri.com)
 
+### D 
+- [Divy Mohan Rai](https://divymohanrai.com)
+
 ## Companies
 
 ### Z
