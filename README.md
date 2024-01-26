@@ -21,6 +21,7 @@ If you have a engineering blog, or know of any engineering blogs where you belie
 
 ### D 
 - [Divy Mohan Rai](https://divymohanrai.com)
+- [Dhaval Singh](https://www.dsdev.in)
 
 ### K
 - [Kailash Nadh](https://nadh.in/)
