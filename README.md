@@ -22,6 +22,16 @@ If you have a engineering blog, or know of any engineering blogs where you belie
 ### D 
 - [Divy Mohan Rai](https://divymohanrai.com)
 
+### K
+- [Kailash Nadh](https://nadh.in/)
+- [Karan Sharma](https://mrkaran.dev/)
+
+### N
+- [Neeldhara](https://neeldhara.com)
+
+### R
+- [Rohan Verma](https://rohanverma.net/)
+
 ## Companies
 
 ### C
