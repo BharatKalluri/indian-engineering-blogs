@@ -27,6 +27,8 @@ If you have a engineering blog, or know of any engineering blogs where you belie
 - [Kailash Nadh](https://nadh.in/)
 - [Karan Sharma](https://mrkaran.dev/)
 
+### M
+- [Musadiq Peerzada](https://www.musadiqpeerzada.com/blog)
 ### N
 - [Neeldhara](https://neeldhara.com)
 
