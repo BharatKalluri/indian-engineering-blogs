@@ -35,6 +35,9 @@ If you have a engineering blog, or know of any engineering blogs where you belie
 ### R
 - [Rohan Verma](https://rohanverma.net/)
 
+### S
+- [Shraddha Agrawal](https://www.shraddhaag.dev/)
+
 ### T
 - [Tushar Tripathi](https://tushartripathi.me/)
 
