@@ -41,6 +41,9 @@ If you have a engineering blog, or know of any engineering blogs where you belie
 ### T
 - [Tushar Tripathi](https://tushartripathi.me/)
 
+### Z
+- [Zaid Humayun](https://redixhumayun.github.io/)
+
 ## Companies
 
 ### C
